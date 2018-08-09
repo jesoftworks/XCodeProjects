@@ -1,3 +1,3 @@
 # XCodeProjects
 
-JESoftWorks
+JE SoftWorks Limited
